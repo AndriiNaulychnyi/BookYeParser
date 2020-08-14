@@ -1,0 +1,9 @@
+spring.main.web-application-type: NONE
+
+es:
+  host: 127.0.0.1
+  port: 9200
+  books: books
+  categories: categories
+  version: 2
+  deleteIndexes: true  #false or true
